@@ -1,2 +1,1 @@
-# chromaflash
-Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras
+# ChromaFlash: Snapshot Hyperspectral Imaging Using Rolling Shutter Cameras
